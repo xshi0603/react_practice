@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.box {
+     border-style: solid;
+     border-color: darkblue;
+     border-size: 3px;
+     border-radius: 30px;
+     background-color: skyblue;
+     padding-left: 15px;
+     padding-right: 15px;	
+     padding-bottom: 15px;
+}
+
+button {
+       width:100px;
+       height:30px;
+       border-radius: 10px;
+       
+}
